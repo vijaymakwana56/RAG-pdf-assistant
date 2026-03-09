@@ -5,6 +5,8 @@ upload PDFs and ask questions about their documents. The system chunks
 documents, stores embeddings in Pinecone, retrieves relevant context,
 and generates answers using Groq LLM.
 
+Demo URL: https://rag-pdf-assistant-bxunnnwfipxbwhry9dbbze.streamlit.app/
+
 ------------------------------------------------------------------------
 
 ## Features
@@ -73,7 +75,7 @@ Answer Generation
 
 Clone the repository
 
-    git clone https://github.com/yourusername/pdf-rag-assistant.git
+    git clone https://github.com/vijaymakwana56/RAG-pdf-assistant
     cd pdf-rag-assistant
 
 Create a virtual environment
